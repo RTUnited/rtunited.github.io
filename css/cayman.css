@@ -3,11 +3,15 @@
 
 body {
   padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  font-family: 'Francois One', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #606c71; 
+  max-width:1240px;
+  
+  }
+  
 
 a {
   color: #1e6bb8;
@@ -50,7 +54,7 @@ a {
         margin-left: 0; } }
 
 .page-header {
-	color:darkslateblue;
+	color:#33577F;
 	text-align:center;
 	
 	background-image:url("../img/gradiente.png");
@@ -72,14 +76,14 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem; 
   
-  font-size:340%;
+  font-size:400%;
   }
 	
 
 .project-tagline {
   margin:0px;
   font-weight: normal;
-  opacity: 0.7; 
+  opacity: 0.8; 
   font-size:200%;
   }
 
