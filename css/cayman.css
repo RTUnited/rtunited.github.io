@@ -242,3 +242,23 @@ a {
 .redes-sociais {
 	display:block;
 }
+
+
+.destaque-inicio {
+	font-size:130%;
+}
+
+
+.destaque-nome {
+	color:#315b86;
+	font-size:120%;
+}
+
+.em-breve  {
+	color:black;
+	font-size:70%;
+	font-weight:normal;
+	background-color:#d84735;
+	border-radius:5px;
+	padding:5px;
+}
