@@ -12,6 +12,13 @@ body {
   
 }
   
+  
+h3 {
+	font-size:220%;
+	text-align:center;
+}  
+  
+  
 
 a {
   color: #1e6bb8;
@@ -241,6 +248,10 @@ a {
  
 .redes-sociais {
 	display:block;
+	width:48px;
+	float:left;
+	margin-left:5px;
+	margin-right:5px;
 }
 
 
@@ -261,4 +272,20 @@ a {
 	background-color:#d84735;
 	border-radius:5px;
 	padding:5px;
+}
+
+.clear-float {
+	clear:both;
+	
+}
+
+.titulo-lista {
+	font-size:150%;
+    font-weight:bold;
+}
+
+.subtitulo-lista {
+	font-size:110%;
+    font-weight:bold;
+	text-decoration:underline;
 }
